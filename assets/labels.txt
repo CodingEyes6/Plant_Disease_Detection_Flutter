@@ -1,0 +1,16 @@
+Bean_angular_leaf_spot
+Bean_bean_rust
+Bean_healthy
+Cassava_Bacterial Blight (CBB)
+Cassava_Brown Streak Disease (CBSD)
+Cassava_Green Mottle (CGM)
+Cassava_Healthy
+Cassava_Mosaic Disease (CMD)
+Rice_BrownSpot
+Rice_Healthy
+Rice_Hispa
+Rice_LeafBlast
+corn_maize_cercospora leaf spot gray leaf spot
+corn_maize_common rust
+corn_maize_healthy
+corn_maize_northern leaf blight
